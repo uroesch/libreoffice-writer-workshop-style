@@ -1,0 +1,9 @@
+= LibreOffice Writer style for creating technical workshops
+:Author: Urs Roesch
+
+
+This is currently just a dump of a style created for a number
+of workshops.
+
+Portablility across multiple platforms has not yet been vetted.
+
